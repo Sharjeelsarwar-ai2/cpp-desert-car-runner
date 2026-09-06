@@ -1,4 +1,4 @@
-Car Racing Game — Console-Based C++ Game
+Desert Runner — Console-Based C++ Game
 
 A console-based car racing game developed in C++ as a first-semester programming project.
 
